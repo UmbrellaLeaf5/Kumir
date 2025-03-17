@@ -1,1 +1,4 @@
 *.kum linguist-language=Kumir
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
