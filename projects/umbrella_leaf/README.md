@@ -1,0 +1,1 @@
+https://aminoapps.com/c/miranimeru/page/blog/proekt-ambrella-v-chertezhnike/qKxR_YECRun4Zok7DxBpL851d0D2e73Ndp
